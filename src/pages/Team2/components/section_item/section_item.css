@@ -1,0 +1,18 @@
+.section_item{
+    width: 50%;
+    height: 333px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+}
+.p1{
+    background-image: linear-gradient(45deg,  #F983E9,#B877FF,#C2E9CD);
+ background-size: 100% 100%;
+ background-repeat: repeat;
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent; 
+ -moz-background-clip: text;
+ -moz-text-fill-color: transparent;
+}
